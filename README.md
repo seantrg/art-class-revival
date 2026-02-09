@@ -22,4 +22,5 @@ npm start # Start the bare server + serve static files
 ````
 
 ## Support
-Issues can be answered by [opening an issue](https://github.com/seantrg/art-class-revival/issues).
+Issues can be answered by [opening an issue](https://github.com/seantrg/art-class-revival/issues) or [joining the discord](https://discord.gg/vPzAtYD7Au) and posting in the #issues channel.
+Feature requested in the [pull requests](https://github.com/seantrg/art-class-revival/pulls) or [joining the discord](https://discord.gg/vPzAtYD7Au) and posting in the #suggestions channel.
