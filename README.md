@@ -9,7 +9,7 @@ A website with tons of games, apps, built-in proxy, emulator, and more fun goodi
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/seantrg/art-class-revival)
 [![Deploy to Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/seantrg/art-class-revival)
 
-> You currently cannot deploy Art Class Revival to a static host, such as Netlify, Cloudflare Pages, or GitHub Pages. Vercel does work - however, it is experimental and some things may not work as intended.
+> You currently cannot deploy Art Class Revival to a static host, such as Netlify, Cloudflare Pages, or GitHub Pages.
 
 ## Run locally
 
