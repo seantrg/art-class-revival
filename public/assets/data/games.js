@@ -516,6 +516,12 @@ var games = [
     image: 'https://azgames.io/upload/cache/upload/imgs/escaperoad21-m200x200.webp'
   },
   {
+    id: 'wackyflip',
+    title: 'Wacky Flip',
+    url: 'https://game.azgame.io/wacky-flip/',
+    image: 'https://azgames.io/upload/cache/upload/imgs/wackyflip-m180x180.png'
+  },
+  {
     id: 'crazycattle',
     title: 'Crazy Cattle 3D',
     url: 'https://crazycattle3d.io/game/crazycattle3d/v11/',
