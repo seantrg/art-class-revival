@@ -348,9 +348,9 @@ var games = [
     image: 'https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec'
   },
   {
-    id: 'rocketleague',
+    id: 'rocketgoal',
     title: 'Rocket League',
-    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/rocket-league/index.html',
+    url: 'https://rocketgoal.io',
     image: 'https://cdn2.iconfinder.com/data/icons/popular-games-1/50/rocketleague_squircle-512.png'
   },
   {
