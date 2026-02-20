@@ -390,13 +390,6 @@ var games = [
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2048_logo.svg/220px-2048_logo.svg.png'
   },
   {
-    id: 'roblox',
-    title: 'Roblox',
-    url: 'https://now.gg/play/roblox-corporation/5349/roblox',
-    image: 'https://play-lh.googleusercontent.com/WNWZaxi9RdJKe2GQM3vqXIAkk69mnIl4Cc8EyZcir2SKlVOxeUv9tZGfNTmNaLC717Ht=w240-h480-rw',
-    description: 'EXPERIMENTAL: This may or may not work for you. Please don\'t report it if it doesn\'t. If you have bad WiFi, it may load slower than usual.'
-  },
-  {
     id: 'baconmaydie',
     title: 'Bacon May Die',
     url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/bacon-may-die/index.html',
