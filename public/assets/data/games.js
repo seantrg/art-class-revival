@@ -64,7 +64,7 @@ var games = [
   {
     id: 'tombofthemask',
     title: 'Tomb of the Mask',
-    url: 'https://tomb-ofthe-mask.github.io/file/',
+    url: 'https://kdata1.com/2023/10/tomb-of-the-mask/',
     image: 'https://play-lh.googleusercontent.com/gTd127I81O2i2Q6kfCJoN-M0OSWmgsdjB47orUFpLwANW7VZLJYrOxMVt-OpilDXszg=w240-h480-rw'
   },
   {
