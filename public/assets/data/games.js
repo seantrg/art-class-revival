@@ -83,7 +83,7 @@ var games = [
   {
     id: 'papaburgers',
     title: 'Papa\'s Burgeria',
-    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/papasburgeria/index.html',
+    url: 'https://www.coolmathgames.com/0-papas-burgeria/play',
     image: 'https://i.flipline.com/gamefiles/papasburgeriatogo/app_upsell_C.jpg'
   },
   {
