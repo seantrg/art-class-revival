@@ -39,14 +39,14 @@ var games = [
     id: 'fbwg',
     title: 'Fireboy and Watergirl',
     description: 'A 2 player game where you have to work together using logic and teamwork to get to the finish line.',
-    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/firebowatergirlforesttemple/index.html',
+    url: 'https://www.coolmathgames.com/0-fireboy-and-water-girl-in-the-forest-temple/play',
     image: 'https://play-lh.googleusercontent.com/5-YcjiTyMrPJEZe078dHMxnCxcg2A_8NWJZQieRvn2Gkf8JOuHZEbTmFyQ9gn5p2lnU'
   },
   {
     id: 'driftboss',
     title: 'Drift Boss',
     image: 'https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=40,height=40,fit=cover,f=auto/baf55f009fd63dd63c760a5dcfe79615.png',
-    url: 'https://www.hoodamath.com/mobile/games/drift-boss/game.html'
+    url: 'https://www.coolmathgames.com/0-drift-boss/play'
   },
   {
     id: 'osu',
@@ -71,7 +71,7 @@ var games = [
     id: 'backrooms',
     title: 'Backrooms',
     description: 'Scary game based on the viral 4Chan post.',
-    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/backrooms/index.html',
+    url: 'https://html-classic.itch.zone/html/9813294/Backrooms%20v1.7.1%20-%20WebGL/index.html',
     image: 'https://media.wired.com/photos/627b0c1fb6048c47d506c6c0/1:1/w_679,h_679,c_limit/Backrooms-Games.jpg'
   },
   {
@@ -147,7 +147,7 @@ var games = [
   {
     id: 'fnf',
     title: 'Friday Night Funkin',
-    url: 'https://html-classic.itch.zone/html/2876359-1104083/index.html?v=1732313800',
+    url: 'https://uploads.ungrounded.net/alternate/1528000/1528775_alternate_113347_r143.zip/?NewgroundsAPI_PublisherID=1&NewgroundsAPI_SandboxID=6a8926e1679b9&NewgroundsAPI_SessionID=&NewgroundsAPI_UserName=%26lt%3Bdeleted%26gt%3B&NewgroundsAPI_UserID=0&ng_username=%26lt%3Bdeleted%26gt%3B',
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Boyfriend-2.png/250px-Boyfriend-2.png'
   },
   {
@@ -165,7 +165,7 @@ var games = [
   {
     id: 'ducklife4',
     title: 'Duck Life 4',
-    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/ducklife4/index.html',
+    url: 'https://www.coolmathgames.com/0-duck-life-4/play',
     image: 'https://play-lh.googleusercontent.com/AUGkRrKMtUCLVE9vCvlfMY9Ny9EBqzx17yejVtEEhvpkw-H6lJlvBHgCMqPJm8HV_tM'
   },
   {
@@ -260,7 +260,7 @@ var games = [
   {
     id: 'escapeprison',
     title: 'Henry Stickmin: Escaping the Prison',
-    url: 'https://escaping-the-prison.game-files.crazygames.com/ruffle/escaping-the-prison/2/escaping_the_prison.html?v=1.323',
+    url: 'https://uploads.ungrounded.net/ruffle_wrapper/ruffleembed.html?v=1.2.3&browsermode=default&props=%7B%22ruffle%22%3A%22%2Fruffle_wrapper%2Flib%2Fruffle.js%3F1786853994%22%2C%22public_path%22%3A%22%2Fruffle_wrapper%2Flib%2F%22%2C%22swf%22%3A%22https%3A%2F%2Fuploads.ungrounded.net%2F533000%2F533001_PrisonNG.swf%3F1271259449%22%2C%22vars%22%3A%7B%22NewgroundsAPI_PublisherID%22%3A1%2C%22NewgroundsAPI_SandboxID%22%3A%226a8928bb982b0%22%2C%22NewgroundsAPI_SessionID%22%3A%22%22%2C%22NewgroundsAPI_UserName%22%3A%22%26lt%3Bdeleted%26gt%3B%22%2C%22NewgroundsAPI_UserID%22%3A0%2C%22ng_username%22%3A%22%26lt%3Bdeleted%26gt%3B%22%7D%2C%22width%22%3A650%2C%22height%22%3A450%2C%22icon%22%3A%22https%3A%2F%2Fpicon.ngfiles.com%2F533000%2Fflash_533001_card.webp%3Ff1778612312%22%2C%22warnOnUnsupportedContent%22%3Afalse%2C%22external%22%3A%22%2Fruffle_wrapper%2Fexternal%2Fruffle-external-input.js%3F1787332394%22%7D',
     image: 'https://play-lh.googleusercontent.com/MKW0yzbpA-faDMztP2xkirlXsHwL7QutC_9VyQlbr4VTbPOyCZInL7zYG9EA4XpX4mtM'
   },
   {
@@ -290,7 +290,7 @@ var games = [
   {
     id: 'baldisbasics',
     title: 'Baldi\'s Basics',
-    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/baldis-basics/index.html',
+    url: 'https://kdata1.com/5000/2025/baldi-s-basics-webgl/',
     image: 'https://play-lh.googleusercontent.com/EPV1TB4So1lB0DGrdCVExDpNU8ML67nd8OqBeoOIM-s6sDicxmDdPvCXD6n7LKevFl0'
   },
   {
@@ -308,7 +308,7 @@ var games = [
   {
     id: 'geometrydash',
     title: 'Geometry Dash',
-    url: 'https://slope3.com/geometry-dash-lite',
+    url: 'https://geodashlite.pages.dev/',
     image: 'data:image/webp;base64,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'
   },
   {
@@ -320,20 +320,21 @@ var games = [
   {
     id: 'fruitninja',
     title: 'Fruit Ninja',
-    url: 'https://html5.gamedistribution.com/rvvASMiM/a186dc9ac7f548f884db8ff54df6dd9f/index.html?gd_sdk_referrer_url=https%3A%2F%2Fwww.crazygames.com%2Fgame%2Ffruit-ninja&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL3d3dy5jcmF6eWdhbWVzLmNvbS9nYW1lL2ZydWl0LW5pbmphIiwicGFyZW50RG9tYWluIjoiY3JhenlnYW1lcy5jb20iLCJ0b3BEb21haW4iOiJjcmF6eWdhbWVzLmNvbSIsImhhc0ltcHJlc3Npb24iOmZhbHNlLCJsb2FkZXJFbmFibGVkIjp0cnVlLCJob3N0IjoiaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20iLCJ2ZXJzaW9uIjoiMS41LjE3In0%253D',
+    url: 'https://www.coolmathgames.com/0-fruit-ninja/play',
     image: 'https://play-lh.googleusercontent.com/iRlGmvtJ524J-gAGdJJchMv-MH-9AuG80TAx8Rv8q3lObiI7kLVZrEvjVOM-yw3BBH4'
   },
   {
     id: 'bloxors',
     title: 'Bloxorz',
-    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/bloxors/index.html',
+    url: 'https://www.coolmathgames.com/0-bloxorz/play',
     image: 'https://play-lh.googleusercontent.com/FHpA3r3FHDzVNtBpjpi9Zq8JA81bvRXBEbdkBvL3COOucsMfn_fYYhEFE5g55VkeSQ'
   },
   {
     id: 'chromedino',
     title: "Chrome Dino Game",
-    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/chrome-dino/index.html',
-    image: 'https://qph.cf2.quoracdn.net/main-qimg-c803e5912e045867b4e2f033c1b57ff9-lq'
+    url: 'https://chromedino.com/embed/',
+    image: 'https://qph.cf2.quoracdn.net/main-qimg-c803e5912e045867b4e2f033c1b57ff9-lq',
+    description: 'Press space to start'
   },
   {
     id: 'doodlejump',
@@ -350,7 +351,7 @@ var games = [
   {
     id: 'amongus',
     title: 'Among Us',
-    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/among-us/index.html',
+    url: 'https://amongusplay.online/',
     image: 'https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec'
   },
   {
@@ -384,12 +385,6 @@ var games = [
     image: 'https://play-lh.googleusercontent.com/v7KwGdPjJGjJjRXn46sck4DwDBdKSeRzGN44CjiXUtKV0jjOi51Bt4wcXud0m-SkXg=w240-h480-rw'
   },
   {
-    id: 'aquapark',
-    title: 'aquapark.io',
-    url: 'https://3402862703689482991.playables.usercontent.goog/v/assets/index.html#flags=%7B%22enableServiceWorker%22%3Afalse%7D&origin=https%3A%2F%2Fwww.youtube.com',
-    image: 'https://play-lh.googleusercontent.com/pNI21ILS4I9IAzveYzjbfk5D5LGuL03b0Ea4OtlFRLD_yk7KYLBeLlBmsvhH7Uj-dQn6'
-  },
-  {
     id: '2048',
     title: '2048',
     url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/2048/index.html',
@@ -404,14 +399,14 @@ var games = [
   {
     id: 'burninrubber5xs',
     title: 'Burnin\' Rubber 5 XS',
-    url: 'https://21494faf-b9e8-4edc-a384-8e4aa7c9bbe6.poki-gdn.com/dfa3f948-112b-4219-a07c-cb816c8d5ec3/index.html?country=US&ccpaApplies=0&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-9551b1fb395dc7535d35465bb0dbce1e5a09497f&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fburnin-rubber-5-xs&hoist=yes&nonPersonalized=n&cloudsavegames=n&familyFriendly=n&categories=1%2C78%2C765%2C929%2C1178&special_condition=landing&game_id=21494faf-b9e8-4edc-a384-8e4aa7c9bbe6&game_version_id=dfa3f948-112b-4219-a07c-cb816c8d5ec3&inspector=0&csp=1',
+    url: 'https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/burnin-rubber-5/index.html',
     image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD5QlYWcEtxHe9p40C0nR-bdJJMHujPxyoG5y4XZFYAm9-MVrQNjnkUf0&usqp=CAE&s',
     description: 'This game is resource-heavy. Make sure to adjust quality using the Star button in the main menu.'
   },
   {
     id: 'funnyshooter2',
     title: 'Funny Shooter 2',
-    url: 'https://funny-shooter-2.game-files.crazygames.com/unity/unity2020/funny-shooter-2.html?v=1.323',
+    url: 'https://html5.gamedistribution.com/rvvASMiM/a1b7ac4025214a5cb0bd01a4f675513a/index.html?gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL2Z1bm55c2hvb3RlcjIuY29tLyIsInBhcmVudERvbWFpbiI6ImZ1bm55c2hvb3RlcjIuY29tIiwidG9wRG9tYWluIjoiZnVubnlzaG9vdGVyMi5jb20iLCJoYXNJbXByZXNzaW9uIjpmYWxzZSwibG9hZGVyRW5hYmxlZCI6dHJ1ZSwiaG9zdCI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwidmVyc2lvbiI6IjEuNS4xOCJ9',
     image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQllXezliB4G31nMyguAV25NVm00Zrh_7bX5P9Nomnf&usqp=CAE&s',
     description: 'This game has a working rewarded ad bypass, but it will temporarily mute the game. It will unmute at level start/end.'
   },
@@ -456,7 +451,7 @@ var games = [
   {
     id: '1on1basketball',
     title: 'Basketball Stars',
-    url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/basketball-stars/index.html',
+    url: 'https://html5.gamedistribution.com/rvvASMiM/516d6908fbc848bdb89e65a58a43a7dc/index.html?gd_sdk_referrer_url=https%3A%2F%2Fbasketballstars2026.io%2Fbasketball-stars-2026&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL2Jhc2tldGJhbGxzdGFyczIwMjYuaW8vYmFza2V0YmFsbC1zdGFycy0yMDI2IiwicGFyZW50RG9tYWluIjoiYmFza2V0YmFsbHN0YXJzMjAyNi5pbyIsInRvcERvbWFpbiI6ImJhc2tldGJhbGxzdGFyczIwMjYuaW8iLCJoYXNJbXByZXNzaW9uIjpmYWxzZSwibG9hZGVyRW5hYmxlZCI6dHJ1ZSwiaG9zdCI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwidmVyc2lvbiI6IjEuNS4xOCJ9',
     image: 'https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=40,height=40,fit=cover,f=auto/bc02c9cdfc5b424ddf343b01edf791ce.png'
   },
   {
@@ -468,7 +463,7 @@ var games = [
   {
     id: 'holeio',
     title: 'Hole.io',
-    url: 'https://holeioonline.github.io/file/',
+    url: 'https://holeio.com/',
     image: 'https://play-lh.googleusercontent.com/PTnoGeHV-bsIF79sW4IX4MzKAKaWj9fBWGvR4AOA4tmW0eYjPo3bVdpPYR7GGeX-0w'
   },
   {
@@ -480,7 +475,7 @@ var games = [
   {
     id: 'helixjump',
     title: 'Helix Jump',
-    url: 'https://helix-jump.game-files.crazygames.com/helix-jump/14/index.html',
+    url: 'https://gamebol.com/gamesource/Helix_Fruit_Jump/index.html',
     image: 'https://play-lh.googleusercontent.com/cZHORa1z78dfMsP_nxCkplmHGUx5wfjY0x2jK59GWL7rUL5o6c_KiQ7QL9o4T22qbH8'
   },
   {
@@ -508,24 +503,11 @@ var games = [
     image: 'https://www.google.com/imgres?q=google%20doodle%20baseball&imgurl=https%3A%2F%2Fgoogle-doodlebaseball.github.io%2Fcache%2Fdata%2Fimage%2Fgame%2Fgoogle-doodle-baseball%2Fgooglebaseball-m186x186.webp&imgrefurl=https%3A%2F%2Fgoogle-doodlebaseball.github.io%2F&docid=MxNOJAlmdmYDNM&tbnid=T-TOV3H-_-EOrM&vet=12ahUKEwji88uC5NuQAxWNlokEHbgrFqcQM3oECB8QAA..i&w=186&h=186&hcb=2&ved=2ahUKEwji88uC5NuQAxWNlokEHbgrFqcQM3oECB8QAA'
   },
   {
-    id: 'esroad2',
-    title: 'Escape Road 2',
-    description: 'WHEN PROPMPTED, PLEASE PRESS CONTINUE OFFLINE',
-    url: 'https://games.crazygames.com/en_US/escape-road-2/index.html?v=1.348',
-    image: 'https://azgames.io/upload/cache/upload/imgs/escaperoad21-m200x200.webp'
-  },
-  {
     id: 'wackyflip',
     title: 'Wacky Flip',
     url: 'https://game.azgame.io/wacky-flip/',
     image: 'https://azgames.io/upload/cache/upload/imgs/wackyflip-m180x180.png'
   },
-  {
-    id: 'crazycattle',
-    title: 'Crazy Cattle 3D',
-    url: 'https://crazycattle3d.io/game/crazycattle3d/v11/',
-    image: 'https://img.itch.zone/aW1nLzIwNjg0MzI4LnBuZw==/original/vEMX1y.png'
-  }
 ]
 games.sort(function (a, b) {
   return a.title.localeCompare(b.title);
