@@ -294,12 +294,6 @@ var games = [
     image: 'https://play-lh.googleusercontent.com/EPV1TB4So1lB0DGrdCVExDpNU8ML67nd8OqBeoOIM-s6sDicxmDdPvCXD6n7LKevFl0'
   },
   {
-    id: '1v1lol',
-    title: "1v1.lol",
-    url: 'https://1v1.lol',
-    image: 'https://play-lh.googleusercontent.com/-dE43Bqni_bUnq0L-piPxiJG4YiCotk5khMdrQaQBJrXJ3vSgjNeIaKyA34rBvKQSyOy'
-  },
-  {
     id: 'subwaysurfers',
     title: 'Subway Surfers',
     url: 'https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/subway-surfers/index.html',
